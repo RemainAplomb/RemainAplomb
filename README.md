@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RemainAplomb
 - 👀 I’m interested in software development, webnovels, history, and games.
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on projects that will improve my software and hardware related skills.
-- 📫 How to reach me in
+- 📫 Contact me in:
 -         Gmail: rahmani.dibansa.work@gmail.com
 -         Facebook: @rahmani.dibansa.GA
 -         Telegram: @RemainAplomb
