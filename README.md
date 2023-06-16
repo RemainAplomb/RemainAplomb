@@ -1,7 +1,3 @@
-<p align="center">
- <img width="100%" class="background-image dino" src="assets/banner.gif"/>
-</p align="center">
-
 - 👋 Hi, I’m @RemainAplomb
 - 👀 I’m interested in software development, webnovels, history, and games.
 - 💞️ I’m looking to collaborate on projects that will improve my software and hardware related skills.
@@ -15,17 +11,10 @@
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"><center>
 </h2>
-
- 
-<p align="center">
-  <img src="https://github.com/RemainAplomb/RemainAplomb/raw/output/github-contribution-grid-snake.svg" alt="snake"><center>
-</p>
  
 <p align="center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=RemainAplomb&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"><center>
 </p>
-
-
 
 <!---
 RemainAplomb/RemainAplomb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
